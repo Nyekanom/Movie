@@ -1,0 +1,27 @@
+{
+  "name": "HBO",
+  "image": "https://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/300?cb=20201126030141",
+  "info": "",
+  "author": "Chaithale",
+  "epgId": "",
+  "groups": [
+    {
+      "name": "123-HD HBO",
+      "image": "https://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/300?cb=20201126030141",
+      "epgId": "",
+      "url": "https://raw.githubusercontent.com/Nyekanom/Movie-doonung/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องแลกเปลี่ยน/123-hd_หนัง-hbo.w3u",
+      "referer": "",
+      "userAgent": "",
+      "playInNatPlayer": ""
+    },
+    {
+      "name": "nung2hdd HBO",
+      "image": "https://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/300?cb=20201126030141",
+      "epgId": "",
+      "url": "https://raw.githubusercontent.com/Nyekanom/Movie-doonung/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องแลกเปลี่ยน/nung2hdd_หนัง-hbo.w3u",
+      "referer": "",
+      "userAgent": "",
+      "playInNatPlayer": ""
+    },
+  ]
+}
