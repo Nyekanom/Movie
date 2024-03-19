@@ -1,0 +1,36 @@
+{
+  "name": "หนัง ปี 2024",
+  "image": "https://th.bing.com/th/id/R.4d30a09d38e6dfe3feaa31920a680108?rik=GnWkgmKvj5nwNg&riu=http%3a%2f%2fwww.cultjer.com%2fimg%2fug_photo%2f2016_09%2f76248820160921034356.jpg&ehk=grD%2fdqb%2b43FMvO3KHmAdPwgUvOikuZkwrJQwMPdCHUM%3d&risl=&pid=ImgRaw&r=0",
+  "info": "",
+  "author": "Chaithale",
+  "epgId": "",
+  "groups": [
+    {
+      "name": "123-HD หนัง ปี 2024",
+      "image": "https://www.psdstamps.com/wp-content/uploads/2022/04/2024-stamp-png-768x512.png",
+      "epgId": "",
+      "url": "https://raw.githubusercontent.com/Nyekanom/Movie-doonung/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องแลกเปลี่ยน/123-hd_หนังใหม่-2024.w3u",
+      "referer": "",
+      "userAgent": "",
+      "playInNatPlayer": ""
+    },
+    {
+      "name": "9NungHD หนัง ปี 2024",
+      "image": "https://www.psdstamps.com/wp-content/uploads/2022/04/2024-stamp-png-768x512.png",
+      "epgId": "",
+      "url": "https://raw.githubusercontent.com/Nyekanom/Movie-doonung/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องแลกเปลี่ยน/9nunghd_2024.w3u",
+      "referer": "",
+      "userAgent": "",
+      "playInNatPlayer": ""
+    },
+    {
+      "name": "nung2hdd หนัง ปี 2024",
+      "image": "https://www.psdstamps.com/wp-content/uploads/2022/04/2024-stamp-png-768x512.png",
+      "epgId": "",
+      "url": "https://raw.githubusercontent.com/Nyekanom/Movie-doonung/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องแลกเปลี่ยน/nung2hdd_2024.w3u",
+      "referer": "",
+      "userAgent": "",
+      "playInNatPlayer": ""
+    },
+  ]
+}
