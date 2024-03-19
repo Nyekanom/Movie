@@ -1,0 +1,81 @@
+{
+  "name": "Netflix",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Netflix-new-icon.png/600px-Netflix-new-icon.png?20160722094621",
+  "info": "",
+  "author": "Chaithale",
+  "epgId": "",
+  "groups": [
+    {
+      "name": "123-HD Netflix",
+      "image": "https://th.bing.com/th/id/R.4d30a09d38e6dfe3feaa31920a680108?rik=GnWkgmKvj5nwNg&riu=http%3a%2f%2fwww.cultjer.com%2fimg%2fug_photo%2f2016_09%2f76248820160921034356.jpg&ehk=grD%2fdqb%2b43FMvO3KHmAdPwgUvOikuZkwrJQwMPdCHUM%3d&risl=&pid=ImgRaw&r=0",
+      "epgId": "",
+      "url": "https://raw.githubusercontent.com/Nyekanom/Movie-doonung/beaa301b145d365b6a5f86d9db745d57c2152caa/หาอะไรดูๆไปก็พอแล้วนะ/ห้องแลกเปลี่ยน/123-hd_ดูหนัง-netflix.w3u",
+      "referer": "",
+      "userAgent": "",
+      "playInNatPlayer": ""
+    },
+    {
+      "name": "9NungHD Netflix",
+      "image": "https://th.bing.com/th/id/R.4d30a09d38e6dfe3feaa31920a680108?rik=GnWkgmKvj5nwNg&riu=http%3a%2f%2fwww.cultjer.com%2fimg%2fug_photo%2f2016_09%2f76248820160921034356.jpg&ehk=grD%2fdqb%2b43FMvO3KHmAdPwgUvOikuZkwrJQwMPdCHUM%3d&risl=&pid=ImgRaw&r=0",
+      "epgId": "",
+      "url": "https://raw.githubusercontent.com/Nyekanom/Movie-doonung/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องแลกเปลี่ยน/9nunghd_netflix.w3u",
+      "referer": "",
+      "userAgent": "",
+      "playInNatPlayer": ""
+    },
+    {
+      "name": "dooseries4k Netflix",
+      "image": "https://th.bing.com/th/id/R.4d30a09d38e6dfe3feaa31920a680108?rik=GnWkgmKvj5nwNg&riu=http%3a%2f%2fwww.cultjer.com%2fimg%2fug_photo%2f2016_09%2f76248820160921034356.jpg&ehk=grD%2fdqb%2b43FMvO3KHmAdPwgUvOikuZkwrJQwMPdCHUM%3d&risl=&pid=ImgRaw&r=0",
+      "epgId": "",
+      "url": "https://raw.githubusercontent.com/Nyekanom/Movie-doonung/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องแลกเปลี่ยน/dooseries4k_netflix.w3u",
+      "referer": "",
+      "userAgent": "",
+      "playInNatPlayer": ""
+    },
+    {
+      "name": "nung2hdd Netflix",
+      "image": "https://th.bing.com/th/id/R.4d30a09d38e6dfe3feaa31920a680108?rik=GnWkgmKvj5nwNg&riu=http%3a%2f%2fwww.cultjer.com%2fimg%2fug_photo%2f2016_09%2f76248820160921034356.jpg&ehk=grD%2fdqb%2b43FMvO3KHmAdPwgUvOikuZkwrJQwMPdCHUM%3d&risl=&pid=ImgRaw&r=0",
+      "epgId": "",
+      "url": "https://raw.githubusercontent.com/Nyekanom/Movie-doonung/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องแลกเปลี่ยน/nung2hdd_netflix-movies.w3u",
+      "referer": "",
+      "userAgent": "",
+      "playInNatPlayer": ""
+    },
+    {
+      "name": "seriesday Netflix",
+      "image": "https://th.bing.com/th/id/R.4d30a09d38e6dfe3feaa31920a680108?rik=GnWkgmKvj5nwNg&riu=http%3a%2f%2fwww.cultjer.com%2fimg%2fug_photo%2f2016_09%2f76248820160921034356.jpg&ehk=grD%2fdqb%2b43FMvO3KHmAdPwgUvOikuZkwrJQwMPdCHUM%3d&risl=&pid=ImgRaw&r=0",
+      "epgId": "",
+      "url": "https://raw.githubusercontent.com/Nyekanom/Movie-doonung/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องแลกเปลี่ยน/seriesday_netflix.w3u",
+      "referer": "",
+      "userAgent": "",
+      "playInNatPlayer": ""
+    },
+    {
+      "name": "tvallseries ซีรีย์ Netflix",
+      "image": "https://th.bing.com/th/id/R.4d30a09d38e6dfe3feaa31920a680108?rik=GnWkgmKvj5nwNg&riu=http%3a%2f%2fwww.cultjer.com%2fimg%2fug_photo%2f2016_09%2f76248820160921034356.jpg&ehk=grD%2fdqb%2b43FMvO3KHmAdPwgUvOikuZkwrJQwMPdCHUM%3d&risl=&pid=ImgRaw&r=0",
+      "epgId": "",
+      "url": "https://raw.githubusercontent.com/Nyekanom/Movie-doonung/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องแลกเปลี่ยน/tvallseries_ซีรีย์netflix.w3u",
+      "referer": "",
+      "userAgent": "",
+      "playInNatPlayer": ""
+    },
+    {
+      "name": "v8movie HD ดูหนัง Netflix",
+      "image": "https://th.bing.com/th/id/R.4d30a09d38e6dfe3feaa31920a680108?rik=GnWkgmKvj5nwNg&riu=http%3a%2f%2fwww.cultjer.com%2fimg%2fug_photo%2f2016_09%2f76248820160921034356.jpg&ehk=grD%2fdqb%2b43FMvO3KHmAdPwgUvOikuZkwrJQwMPdCHUM%3d&risl=&pid=ImgRaw&r=0",
+      "epgId": "",
+      "url": "https://raw.githubusercontent.com/Nyekanom/Movie-doonung/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องแลกเปลี่ยน/v8movie-hd_ดูหนัง-netflix.w3u",
+      "referer": "",
+      "userAgent": "",
+      "playInNatPlayer": ""
+    },
+    {
+      "name": "ชอบหนัง Netflix",
+      "image": "https://th.bing.com/th/id/R.4d30a09d38e6dfe3feaa31920a680108?rik=GnWkgmKvj5nwNg&riu=http%3a%2f%2fwww.cultjer.com%2fimg%2fug_photo%2f2016_09%2f76248820160921034356.jpg&ehk=grD%2fdqb%2b43FMvO3KHmAdPwgUvOikuZkwrJQwMPdCHUM%3d&risl=&pid=ImgRaw&r=0",
+      "epgId": "",
+      "url": "https://raw.githubusercontent.com/Nyekanom/Movie-doonung/beaa301b145d365b6a5f86d9db745d57c2152caa/หาอะไรดูๆไปก็พอแล้วนะ/ห้องแลกเปลี่ยน/ชอบหนัง_netflix.w3u",
+      "referer": "",
+      "userAgent": "",
+      "playInNatPlayer": ""
+    }
+  ]
+}
