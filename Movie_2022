@@ -1,0 +1,36 @@
+{
+  "name": "หนัง ปี 2022",
+  "image": "https://th.bing.com/th/id/R.ab0300f29392f0fd2352df4d5b87e183?rik=0sOFmJof9Mx6jw&pid=ImgRaw&r=0",
+  "info": "",
+  "author": "Chaithale",
+  "epgId": "",
+  "groups": [
+    {
+      "name": "123-HD หนัง ปี 2022",
+      "image": "https://img.freepik.com/premium-vector/new-2022-year-poster-bright-illustration_185757-624.jpg?w=1480",
+      "epgId": "",
+      "url": "https://raw.githubusercontent.com/Nyekanom/Movie-doonung/beaa301b145d365b6a5f86d9db745d57c2152caa/หาอะไรดูๆไปก็พอแล้วนะ/ห้องแลกเปลี่ยน/123-hd_หนังใหม่-2022.w3u",
+      "referer": "",
+      "userAgent": "",
+      "playInNatPlayer": ""
+    },
+    {
+      "name": "9NungHD หนัง ปี 2022",
+      "image": "https://img.freepik.com/premium-vector/new-2022-year-poster-bright-illustration_185757-624.jpg?w=1480",
+      "epgId": "",
+      "url": "https://raw.githubusercontent.com/Nyekanom/Movie-doonung/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องแลกเปลี่ยน/9nunghd_ดูหนัง-2022.w3u",
+      "referer": "",
+      "userAgent": "",
+      "playInNatPlayer": ""
+    },
+    {
+      "name": "nung2hdd หนัง ปี 2022",
+      "image": "https://img.freepik.com/premium-vector/new-2022-year-poster-bright-illustration_185757-624.jpg?w=1480",
+      "epgId": "",
+      "url": "https://raw.githubusercontent.com/Nyekanom/Movie-doonung/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ห้องแลกเปลี่ยน/nung2hdd_2022.w3u",
+      "referer": "",
+      "userAgent": "",
+      "playInNatPlayer": ""
+    },
+  ]
+}
