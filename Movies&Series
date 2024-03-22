@@ -1,0 +1,163 @@
+{
+  "name": "รวมหนังและซีรีย์",
+  "image": "",
+  "groups": [
+    {
+      "name": "Digital TV",
+      "image": "https://www.i-pic.info/i/WOYN317032.png",
+      "imageScale": "center",
+      "url": "https://drive.google.com/uc?id=11F1iZEao18__ne2LTw3HtkqMFQyguP9S",
+      "import": false
+    },
+    {
+      "name": "Anime",
+      "image": "https://raw.githubusercontent.com/zealotboll/zealot/1d12b1eccf2ce5c93897482e374f3786b290cf5e/Main/icon/main_anime.png",
+      "url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Menu.txt",
+      "import": "TRUE"
+    },
+    {
+      "name": "การ์ตูน",
+      "image": "https://th.bing.com/th/id/OIP.tZyIDIzGlkyuUrwgP2Xp2gAAAA?pid=ImgDet&rs=1",
+      "url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/การ์ตูน.txt",
+      "import": "TRUE"
+    },
+    {
+      "name": "123-HD",
+      "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+      "url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/123HD/123hd.txt",
+      "import": "TRUE"
+    },
+    {
+      "name": "037hdmovie",
+      "image": "https://www.037hdmovie.com/wp-content/uploads/2020/04/1588242378408.png",
+      "url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/037hdmovie/รวม.w3u",
+      "import": "TRUE"
+    },
+    {
+      "name": "24-hd",
+      "image": "https://www.24-hd.com/wp-content/uploads/2022/08/logo24.png",
+      "url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/24-hd/24-hd_หนังใหม่-2023.w3u",
+      "import": "TRUE"
+    },
+    {
+      "name": "7yup",
+      "image": "https://7yup.net/wp-content/uploads/2022/06/LOGO-TEST.webp",
+      "url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/7yup.net/รวม.txt",
+      "import": "TRUE"
+    },
+    {
+      "name": "9NUNGHD",
+      "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+      "url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/9nunghd/รวม9.txt",
+      "import": "TRUE"
+    },
+    {
+      "name": "EZMOVIE",
+      "image": "https://ezmovie.co/build/web/ez-movie/img/ez-movie-logo.png?v=3",
+      "url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/EZMOVIE/ez_main.BIN",
+      "import": "TRUE"
+    },
+    {
+      "name": "FW4FREE",
+      "image": "https://fw4free.com/images/logo7.png",
+      "url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/FW4FREE/FW4FREE.w3u",
+      "import": "TRUE"
+    },
+    {
+      "name": "LuNa4K",
+      "image": "https://luna4k.com/wp-content/uploads/2023/10/cropped-LOGO-1.png",
+      "url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/Luna4k/luna4k_main.BIN",
+      "import": "TRUE"
+    },
+    {
+      "name": "Movie666HD",
+      "image": "https://666hd.com/wp-content/uploads/2022/08/666-hd.webp",
+      "url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/Movie666HD/666hd.txt",
+      "import": "TRUE"
+    },
+    {
+      "name": "nung2hdd",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+      "url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/Nung2hdd/รวม.txt",
+      "import": "TRUE"
+    },
+    {
+      "name": "V8Movie-HD",
+      "image": "https://www.v8movie-hd.com/wp-content/themes/v8moviehd/img/logo-v8hd.png",
+      "url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/V8Movie/V8_all.txt",
+      "import": "TRUE"
+    },
+    {
+      "name": "Watchlakorn.in",
+      "image": "https://cdn.watchlakorn.in/images/video_logo.png",
+      "url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/Watchlakorn.in/watchlakorn_group.txt",
+      "import": "TRUE"
+    },
+    {
+      "name": "ชอบหนัง",
+      "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/themes/like_nung/images/logo.png",
+      "url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/ชอบหนัง/list_ชอบหนัง.txt",
+      "import": "TRUE"
+    },
+    {
+      "name": "Dooseries4k",
+      "image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
+      "url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/DooSeries4K/รวม.txt",
+      "import": "TRUE"
+    },
+    {
+      "name": "Love-Series",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ5AXLt0V56k3vE4VilvP4rhiV5fDQuuOj_tJKL75ldg_8J6oFtMhtQWNvAwwCQqZ1q3nMm_h68zIcxcZe8sCkQdnyq8y2biv2qFSle_ODaT8fgYAfP5b-35e334IQTyBskLTMjvst3uk_SLV8_Qf4_LjNHDkBlr3d5EBjN1Ndd49wHI3QQxWabK5AxoQ2/w640-h169/1.png",
+      "url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/Love-Series/ALL-love-series.w3u",
+      "import": "TRUE"
+    },
+    {
+      "name": "mee-series",
+      "image": "https://www.mee-series.com/uploads/9d5e28069d3139632d817ef275b253ac.jpg",
+      "url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/mee-series/รวมmee-series.txt",
+      "import": "TRUE"
+    },
+    {
+      "name": "SERIES DAY",
+      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+      "url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/seriesday/รวม.w3u",
+      "import": "TRUE"
+    },
+    {
+      "name": "Series-Full",
+      "image": "https://series-full.com/wp-content/uploads/2023/04/seriesfull-logo.png",
+      "url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/series-full/series-full.txt",
+      "import": "TRUE"
+    },
+    {
+      "name": "SERIESHD24",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeE5Od9wala1kDqzr-lGxX4BNM1-nm7R96_VU9MSstYX-1XrwqKTK4Ht1ueFvS-ILuCnrTeetVy1rWagKkeL4bPNWHgfqrI3qHL2vJTS-_Jtc7lzelDjii1tQdDArcMrkZnbMhzXy2aBsD8i3sBfAo6puxoS7Ok0J--rAeQVttZJ5RBtmQbze7hIXT-w/w640-h132/6a2dsg9p.png",
+      "url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/Serieshd24/serieshd24.txt",
+      "import": "TRUE"
+    },
+    {
+      "name": "Series-Indy",
+      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/series1111.png",
+      "url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/Series-Indy/0รวมseries-indy.w3u",
+      "import": "TRUE"
+    },
+    {
+      "name": "SERiESMY",
+      "image": "https://seriesmy.com/wp-content/uploads/2021/01/MSeries-logo-5.png",
+      "url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/SERiESMY/seriesmy.txt",
+      "import": "TRUE"
+    },
+    {
+      "name": "TVAllseries",
+      "image": "https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
+      "url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/TvAllSeries/tv_all_group.txt",
+      "import": "TRUE"
+    },
+    {
+      "name": "อื่นๆ",
+      "image": "https://mrclown.tv/wp-content/uploads/2014/11/MC_SightWords-Other.jpg",
+      "url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/other.txt",
+      "import": "TRUE"
+    }
+  ]
+}
