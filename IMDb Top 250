@@ -1,4 +1,4 @@
-{ "name" : "IMDb Top 100 Movies", "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/IMDB_Logo_2016.svg/575px-IMDB_Logo_2016.svg.png",
+{ "name" : "IMDb Top 250", "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/IMDB_Logo_2016.svg/575px-IMDB_Logo_2016.svg.png", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "#1. The Shawshank Redemption (1994) ชอว์แชงค์ มิตรภาพ ความหวัง ความรุนแรง", "image" : "https://s3.nungdee69.com/assets/images/webp/poster/202202/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg.webp", "epgId" : "", "url" : "https://streamhls.com/view/6627144a-913a-5c13-a994-014674aa47e8.m3u8", "referer" : "https://www.9nunghd.com/", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "#2. THE GODFATHER (1972) เดอะ ก็อดฟาเธอร์", "image" : "https://www.i-moviehd.com/wp-content/uploads/2022/05/The-Godfather-1972-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%81%E0%B9%87%E0%B8%AD%E0%B8%94%E0%B8%9F%E0%B8%B2%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%A3%E0%B9%8C.png", "epgId" : "", "url" : "https://xxx.77player.xyz/iosplaylist/469dfceb684ab1142faf71de8bde0761/469dfceb684ab1142faf71de8bde0761.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
@@ -249,5 +249,5 @@
 { "name" : "#247. It Happened One Night", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "#248. Dances with Wolves", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "#249. Aladdin", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
-{ "name" : "#250. Drishyam", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "#250. Drishyam", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
 ] }
