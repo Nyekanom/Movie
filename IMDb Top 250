@@ -1,8 +1,3 @@
-{ "name" : "Movie", "image" : "https://www.i-pic.info/i/fPu7317054.png", "info" : "", "author" : "Chaithale" ,"epgId" : "" ,
-"groups" : [
-{ "name" : "กด 1 ครั้ง เพื่อกลับหน้าจอหลัก", "image" : "https://www.seekpng.com/png/full/339-3392184_home-icons-blue-home-icon-blue-png.png", "url" : "https://drive.google.com/uc?id=17RjrHT7XCqQEnOSFETmkLBWiWiknT6Ss", "import" : "FALSE" },
-{ "name" : "กด refresh 1 ครั้ง เพื่ออัพเดตช่อง", "image" : "https://icons.veryicon.com/png/o/miscellaneous/basic-monochrome-icon/refresh-149.png", "url" : "https://raw.githubusercontent.com/Nyekanom/Movie/main/IMDb%20Top%20250", "import" : "FALSE" },
-
 { "name" : "IMDb Top 250", "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/IMDB_Logo_2016.svg/575px-IMDB_Logo_2016.svg.png", "url" : "", "import" : "" ,
 "stations" : [
 { "name" : "#1. The Shawshank Redemption (1994) ชอว์แชงค์ มิตรภาพ ความหวัง ความรุนแรง", "image" : "https://s3.nungdee69.com/assets/images/webp/poster/202202/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg.webp", "epgId" : "", "url" : "https://streamhls.com/view/6627144a-913a-5c13-a994-014674aa47e8.m3u8", "referer" : "https://www.9nunghd.com/", "userAgent" : "", "playInNatPlayer" : "" },
@@ -255,5 +250,4 @@
 { "name" : "#248. Dances with Wolves", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "#249. Aladdin", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "#250. Drishyam", "image" : "", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" }
-] }
 ] }
