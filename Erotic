@@ -1,7 +1,7 @@
 { "name" : "Romance", "image" : "", "info" : "", "author" : "Chaithale" ,"epgId" : "" ,
 "groups" : [
 { "name" : "กด 1 ครั้ง เพื่อกลับหน้าจอหลัก", "image" : "https://www.seekpng.com/png/full/339-3392184_home-icons-blue-home-icon-blue-png.png", "url" : "https://drive.google.com/uc?id=17RjrHT7XCqQEnOSFETmkLBWiWiknT6Ss", "import" : "FALSE" },
-{ "name" : "กด refresh 1 ครั้ง เพื่ออัพเดตช่อง", "image" : "https://icons.veryicon.com/png/o/miscellaneous/basic-monochrome-icon/refresh-149.png", "url" : "https://raw.githubusercontent.com/Nyekanom/Sereis/refs/heads/main/IMDb%20Charts%20Top%20250%20TV%20Shows", "import" : "FALSE" },
+{ "name" : "กด refresh 1 ครั้ง เพื่ออัพเดตช่อง", "image" : "https://icons.veryicon.com/png/o/miscellaneous/basic-monochrome-icon/refresh-149.png", "url" : "https://raw.githubusercontent.com/Nyekanom/Movie/main/Erotic", "import" : "FALSE" },
 
 { "name" : "KR", "image" : "", "info" : "", "url" : "", "import" : "" ,
 "stations" : [
@@ -30,7 +30,9 @@
 ] },
 { "name" : "PH", "image" : "", "info" : "", "url" : "", "import" : "" ,
 "stations" : [
-{ "name" : "Pantasya Ni Tami (2024) ปันตาสยา นิ ทามี", "image" : "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iej9tjZsnWbfn6BirakJAygfaEq.jpg", "info" : "⭐ 4.8 Tami, with the help of her fubu photographer, Ken, sells sexy photos of herself. When she meets her fan, Gelo, who loves her as she is, she is torn whether to leave cosplaying or leave Gelo.", "epgId" : "", "url" : "https://stream1.nung.tv/cdn/master/14439bb44f295b759190b4f1704c9dc2/master.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Pantasya Ni Tami (2024) ปันตาสยา นิ ทามี", "image" : "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iej9tjZsnWbfn6BirakJAygfaEq.jpg", "info" : "⭐ 4.8 ทามิได้รับความช่วยเหลือจากเคน ช่างภาพฟูบูของเธอ ขายภาพเซ็กซี่ของตัวเอง เมื่อเธอได้พบกับเจลโล่ แฟนคลับของเธอที่รักเธออย่างที่เธอเป็น เธอก็ลังเลใจว่าจะออกจากคอสเพลย์หรือออกจากเจลโล่", "epgId" : "", "url" : "https://stream1.nung.tv/cdn/master/14439bb44f295b759190b4f1704c9dc2/master.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+{ "name" : "Suki (2023)", "image" : "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7bfDD4mtWYrExQuWDfUiY7JZ3hk.jpg", "info" : "⭐ 4.7 นักเต้นระบำเปลื้องผ้าสาวและจิโกโลสัญญากันว่างานของพวกเธอจะไม่มีวันแยกจากกัน แต่เมื่อตัณหาและการล่อลวงเข้ามาในภาพ พวกเขาเริ่มตั้งคำถามกับคำสาบานของตน", "epgId" : "", "url" : "https://m5-txt-2.xdomovie247.com/playlist2/detail/def30baaRC98K/720/hls/index.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
+
 ] },
 { "name" : "US", "image" : "", "info" : "", "url" : "", "import" : "" ,
 "stations" : [
