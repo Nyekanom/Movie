@@ -3,13 +3,6 @@
   "image": "",
   "groups": [
     {
-      "name": "Digital TV",
-      "image": "https://www.i-pic.info/i/WOYN317032.png",
-      "imageScale": "center",
-      "url": "https://drive.google.com/uc?id=11F1iZEao18__ne2LTw3HtkqMFQyguP9S",
-      "import": false
-    },
-    {
       "name": "Anime",
       "image": "https://raw.githubusercontent.com/zealotboll/zealot/1d12b1eccf2ce5c93897482e374f3786b290cf5e/Main/icon/main_anime.png",
       "url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Menu.txt",
