@@ -1,4 +1,8 @@
-{ "name" : "TMDB Top 100", "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tmdb.new.logo.svg/512px-Tmdb.new.logo.svg.png", "url" : "", "import" : "" ,
+{ "name" : "TMDB Top 100", "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tmdb.new.logo.svg/512px-Tmdb.new.logo.svg.png", "info" : "หนังติดอันดับ TMDB Top 100", "author" : "☝💎 ᶜнⓐ𝕀ᵗ𝕙𝔞Ĺ𝓔 ♝💞" ,"epgId" : "" ,
+"groups" : [
+{ "name" : "กด 1 ครั้ง เพื่อกลับหน้าจอหลัก", "image" : "https://www.seekpng.com/png/full/339-3392184_home-icons-blue-home-icon-blue-png.png", "url" : "https://drive.google.com/uc?id=17RjrHT7XCqQEnOSFETmkLBWiWiknT6Ss", "import" : "FALSE" },
+{ "name" : "กด refresh 1 ครั้ง เพื่ออัพเดตช่อง", "image" : "https://icons.veryicon.com/png/o/miscellaneous/basic-monochrome-icon/refresh-149.png", "url" : "https://raw.githubusercontent.com/Nyekanom/Movie/main/TMDB%20Top%20100", "import" : "FALSE" },
+],
 "stations" : [
 { "name" : "#1. The Shawshank Redemption (1994) ชอว์แชงค์ มิตรภาพ ความหวัง ความรุนแรง", "image" : "https://media.themoviedb.org/t/p/w220_and_h330_face/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg", "epgId" : "", "url" : "https://main.24playerhd.com/m3u8/22ea388d5f420f83b8ace6b0/22ea388d5f420f83b8ace6b0168.m3u8", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
 { "name" : "#2. THE GODFATHER (1972) เดอะ ก็อดฟาเธอร์", "image" : "https://media.themoviedb.org/t/p/w220_and_h330_face/3bhkrj58Vtu7enYsRolD1fZdja1.jpg", "epgId" : "", "url" : "https://xxx.77player.xyz/ioshls/9f5acf7707583b5179ce14d7db23c4f8/9f5acf7707583b5179ce14d7db23c4f8.m3u8", "referer" : "https://www.123-hd.com/", "userAgent" : "", "playInNatPlayer" : "" },
