@@ -1,7 +1,7 @@
 { "name" : "World War II", "image" : "https://suphannigablog.files.wordpress.com/2013/07/kem1.jpg?w=300", "info" : "รวมหนังที่เกี่ยวข้องกับสงครามโลกครั้งที่ 2", "author" : "☝💎 ᶜнⓐ𝕀ᵗ𝕙𝔞Ĺ𝓔 ♝💞" ,"epgId" : "" ,
 "groups" : [
 { "name" : "กด 1 ครั้ง เพื่อกลับหน้าจอหลัก", "image" : "https://www.seekpng.com/png/full/339-3392184_home-icons-blue-home-icon-blue-png.png", "url" : "https://drive.google.com/uc?id=17RjrHT7XCqQEnOSFETmkLBWiWiknT6Ss", "import" : "FALSE" },
-{ "name" : "กด refresh 1 ครั้ง เพื่ออัพเดตช่อง", "image" : "https://icons.veryicon.com/png/o/miscellaneous/basic-monochrome-icon/refresh-149.png", "url" : "https://raw.githubusercontent.com/Nyekanom/Sereis/refs/heads/main/TMDB%20Top%20Rated%20TV%20Shows", "import" : "FALSE" },
+{ "name" : "กด refresh 1 ครั้ง เพื่ออัพเดตช่อง", "image" : "https://icons.veryicon.com/png/o/miscellaneous/basic-monochrome-icon/refresh-149.png", "url" : "https://raw.githubusercontent.com/Nyekanom/Movie/main/World%20War%20II", "import" : "FALSE" },
 ],
 "stations" : [
 { "name" : "#1 BAND OF BROTHERS กองรบวีรบุรุษ (SEASON 1 EP1-10)", "image" : "https://posters.movieposterdb.com/09_04/2001/185906/s_185906_77715178.jpg", "epgId" : "", "url" : "", "referer" : "", "userAgent" : "", "playInNatPlayer" : "" },
