@@ -1,8 +1,8 @@
+{ "name" : "Movies&Series", "image" : "", "info" : "", "author" : "☝💎 ᶜнⓐ𝕀ᵗ𝕙𝔞Ĺ𝓔 ♝💞" ,"epgId" : "" ,
+"groups" : [
+{ "name" : "กด 1 ครั้ง เพื่อกลับหน้าจอหลัก", "image" : "https://www.seekpng.com/png/full/339-3392184_home-icons-blue-home-icon-blue-png.png", "url" : "https://drive.google.com/uc?id=17RjrHT7XCqQEnOSFETmkLBWiWiknT6Ss", "import" : "FALSE" },
+{ "name" : "กด refresh 1 ครั้ง เพื่ออัพเดตช่อง", "image" : "https://icons.veryicon.com/png/o/miscellaneous/basic-monochrome-icon/refresh-149.png", "url" : "https://raw.githubusercontent.com/Nyekanom/Movie/main/Movies%26Series", "import" : "FALSE" },
 {
-  "name": "รวมหนังและซีรีย์",
-  "image": "",
-  "groups": [
-    {
       "name": "Anime",
       "image": "https://raw.githubusercontent.com/zealotboll/zealot/1d12b1eccf2ce5c93897482e374f3786b290cf5e/Main/icon/main_anime.png",
       "url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Menu.txt",
